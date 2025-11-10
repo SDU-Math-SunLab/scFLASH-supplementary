@@ -23,7 +23,6 @@ All files are provided in `.xlsx` and `.pdf` formats for transparency and reprod
 
 ## 🔗 Related Repository
 
-For the main codebase and analysis scripts, please visit the primary repository:  
-👉 [scFLASH](https://github.com/SDU-Math-SunLab/scFLASH)
+For the main codebase and analysis scripts, please visit the primary repository: [scFLASH](https://github.com/SDU-Math-SunLab/scFLASH)
 
 ---
